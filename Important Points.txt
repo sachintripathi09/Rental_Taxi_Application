@@ -1,0 +1,17 @@
+Er diagram, 
+use case diagram, 
+level 0 data flow diagram, 
+level 1 data flow diagram, 
+login activity diagram, 
+admin activity diagram, 
+driver activity diagram, 
+customer activity diagram, 
+class diagram, 
+component diagram, 
+architecture diagram, 
+sequence diagram, 
+database design diagram
+
+Backend: - Spring boot integrated with spring security, spring MVC and microservices
+
+Frontend: - react java script
