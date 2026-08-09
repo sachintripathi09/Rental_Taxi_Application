@@ -1,0 +1,12 @@
+Step 1: Remove the old folders from Git's memory
+(Even if they're gone from Windows, this forces Git to remove them from the index).
+git rm -r --cached "Backend code" "Frontend Code"
+
+Step 2: Add your new folders (and any other files) to the Git staging area
+git add . 
+
+Step 3: Commit the changes
+git commit -m "Removed old folders and replaced with updated final code"
+
+Step 4: Force Push to GitHub
+git push -f origin main
